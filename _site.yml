@@ -1,7 +1,7 @@
 name: "Laboratory Viromics & Bacterial Genomics"
 output_dir: "."
 navbar:
-  title: "Bioinformatics CIDC"
+  title: "Lab Viromics & Bacterial Genomics"
   left:
     - text: "Home"
       href: index.html
