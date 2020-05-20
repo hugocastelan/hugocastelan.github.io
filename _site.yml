@@ -11,8 +11,11 @@ navbar:
       href: Publications.html
     - text: "Clases"
       href: clases.html
-      
+     
+     
+     
+     
 output:
   html_document:
-    theme: spacelab
+    theme: sandstone
     highlight: textmate
