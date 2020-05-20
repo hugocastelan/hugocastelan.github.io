@@ -1,9 +1,13 @@
-name: "my-website"
+name: "Laboratory Viromics & Bacterial Genomics"
 output_dir: "."
 navbar:
-  title: "My Website"
+  title: "Bioinformatics CIDC"
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
+    - text: "About me"
       href: about.html
+output:
+  html_document:
+    theme: united
+    highlight: textmate
