@@ -10,6 +10,7 @@ navbar:
     - text: "Publications"
       href: Publications.html
     - text: "Clases"
+      href: clases.html
       
 output:
   html_document:

@@ -3,3 +3,6 @@ title: "Laboratory Viromics & Bacterial Genomics "
 ---
 
 Welcome 
+
+
+Estamos interesados en investigar la dinamica viral de como los virus contribuyen en el medio ambiente 
