@@ -1,3 +1,4 @@
 ---
 title: "Contenido de las Clases de Bioinformática"
+theme: sandstone
 ---
