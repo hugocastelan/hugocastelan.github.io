@@ -2,11 +2,11 @@
 title: "Publications"
 ---
 
-2020 
+#2020 
 
 1. Villacís, J., Reyes, J., Castelán-Sánchez, H., Dávila-Ramos, S., Lazo, M., Wali, A., Bodero, L., Toapanta, Y., Naranjo, C., Montero, L., Campos, J., Galas, M. and Gestal, M. (2020). OXA-48 Carbapenemase in Klebsiella pneumoniae Sequence Type 307 in Ecuador. Microorganisms, 8(3), p.435
 
-2019 
+#2019 
 
 1. Gómez-Silva, B., Vilo-Muñoz, C., Galetović, A., Dong, Q., Castelán-Sánchez, H., & Pérez-Llano, Y. et al. (2019). Metagenomics of Atacama Lithobiontic Extremophile Life Unveils Highlights on Fungal Communities, Biogeochemical Cycles and Carbohydrate-Active Enzymes. Microorganisms, 7(12), 619. doi:10.3390/microorganisms7120619
 
@@ -25,7 +25,7 @@ title: "Publications"
 2. Negrete-Abascal, E., Montes-Garcia, F., Vaca-Pacheco, S., Leyto-Gil, A., Fragoso-Garcia, E., Carvente-Garcia, R., Perez-Agueros, S., Castelan-Sanchez, H., Garcia-Molina, A., Villamar, T., Sánchez-Alonso, P. and Vazquez-Cruz, C. (2018). Genome Sequence of Actinobacillus seminis Strain ATCC 15768, a Reference Strain of Ovine Pathogens That Causes Infections in Reproductive Organs. Genome Announcements, 6(2).
 
 
-2017
+#2017
 
 1. Casteñeda-Ruelas, G., Carreón-Gaxiola, C., Castelán-Sánchez, H., Acatzi-Silva, A., Romero-Martínez, S., García-Molina, A. and Jiménez-Edeza, M. (2017). Draft Genome Sequences of 18 Salmonella enterica subsp. enterica Serovar Oranienburg Strains Isolated from Rivers in Northwestern Mexico. Genome Announcements, 5(10).
 

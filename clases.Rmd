@@ -2,3 +2,11 @@
 title: "Contenido de las Clases de Bioinformática"
 theme: sandstone
 ---
+
+# Clase 1
+
+## Alineamiento de Secuencias
+
+*Algoritmo BLAST*
+
+
