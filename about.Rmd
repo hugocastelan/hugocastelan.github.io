@@ -1,6 +1,6 @@
 ---
 title: "About me"
-output: word_document
+theme: sandstone
 ---
 
 #Hugo G. Castelán Sánchez 
