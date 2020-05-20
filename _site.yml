@@ -7,6 +7,10 @@ navbar:
       href: index.html
     - text: "About me"
       href: about.html
+    - text: "Publications"
+      href: Publications.html
+    - text: "Clases"
+      
 output:
   html_document:
     theme: united
