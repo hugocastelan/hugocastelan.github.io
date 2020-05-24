@@ -1,5 +1,5 @@
 ---
-title: "Laboratory Viromics & Bacterial Genomics "
+title: "Viromics "
 theme: sandstone
 
 ---

@@ -1,7 +1,7 @@
-name: "Laboratory Viromics & Bacterial Genomics"
+name: "Viromics"
 output_dir: "."
 navbar:
-  title: "Lab Viromics & Bacterial Genomics"
+  title: "Viromics"
   left:
     - text: "Home"
       href: index.html

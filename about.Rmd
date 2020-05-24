@@ -1,11 +1,13 @@
 ---
 title: "About me"
 theme: sandstone
+
+subtitle: "cPhD.Hugo G. Castelán Sánchez"
 ---
 
-#Hugo G. Castelán Sánchez 
 
 
-Hugo is a PhD student in the Cellular and Molecular biology Sciences programme at UAEM-CIDC. He obtained his Masters degree at the UACM in the Genomic Sciences programme under the supervision of Dr. Selene Zárate, and his B.Sc. Chemistry at the UNAM.   
+Hugo is a PhD candidate in the Cellular and Molecular biology Sciences programme at UAEM-CIDC. 
+He obtained his Masters degree at the UACM in the Genomic Sciences programme under the supervision of Dr. Selene Zárate, and his B.Sc. Chemistry at the UNAM.   
 
 He is currently interested in studying viral diversity in extreme environments such as thermophiles and hypersalines and determining the role of viruses in the population structure of these ecosystems. 

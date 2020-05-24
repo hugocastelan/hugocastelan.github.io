@@ -7,6 +7,6 @@ theme: sandstone
 
 ## Alineamiento de Secuencias
 
-*Algoritmo BLAST*
+<Algoritmo BLAST>
 
 
