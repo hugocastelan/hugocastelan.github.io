@@ -2,7 +2,7 @@
 title: "About me"
 theme: sandstone
 
-subtitle: "cPhD. Hugo G. Castelán Sánchez"
+subtitle: "PhD. Hugo G. Castelán Sánchez"
 ---
 
 Hugo is a candidate for a Doctor of Science in the area of Cellular and Molecular Biology from the Autonomous University of the State of Morelos UAEM.
