@@ -9,6 +9,7 @@
     body {
       font-family: Arial, sans-serif;
       line-height: 1.6;
+      scroll-behavior: smooth;
     }
     .navbar {
       margin-bottom: 30px;
@@ -18,7 +19,7 @@
       border-radius: 50%;
     }
     section {
-      padding: 40px 0;
+      padding: 60px 0;
     }
     footer {
       background: #f8f9fa;
@@ -31,7 +32,7 @@
 <body>
 
   <!-- Navbar -->
-  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
     <div class="container">
       <a class="navbar-brand" href="#">Hugo Castelán-Sánchez</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
@@ -42,8 +43,9 @@
           <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
           <li class="nav-item"><a class="nav-link" href="#research">Research</a></li>
           <li class="nav-item"><a class="nav-link" href="#publications">Publications</a></li>
-          <li class="nav-item"><a class="nav-link" href="#teaching">Teaching</a></li>
           <li class="nav-item"><a class="nav-link" href="#projects">Projects</a></li>
+          <li class="nav-item"><a class="nav-link" href="#students">Students</a></li>
+          <li class="nav-item"><a class="nav-link" href="#teaching">Teaching</a></li>
           <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
         </ul>
       </div>
@@ -76,32 +78,50 @@
 
   <!-- Publications -->
   <section id="publications" class="container">
-    <h2>Recent Publications</h2>
+    <h2>Selected Publications</h2>
     <ul>
-      <li>Rodríguez-Cruz, U. E., <strong>Castelán-Sánchez, H. G.</strong>, et al. (2024). Uncovering novel bacterial and archaeal diversity. <em>Frontiers in Microbiology</em>.</li>
-      <li>Miranda-López, D. C., Pérez-Rueda, E., <strong>Castelán-Sánchez, H. G.</strong>, et al. (2024). Comparative analysis of Porphyromonas gingivalis. <em>Letters in Applied Microbiology</em>.</li>
-      <li><strong>Castelán-Sánchez, H. G.</strong>, et al. (2023). Emergence of Raoultella ornithinolytica with OXA-48 resistance. <em>Frontiers in Microbiology</em>.</li>
-      <li>Escalera-Zamudio, M., <strong>Castelán-Sánchez, H. G.</strong>, et al. (2023). Evolutionary trajectories in human betacoronaviruses. <em>Genome Biology and Evolution</em>.</li>
-      <li>More publications on <a href="https://scholar.google.es/citations?user=HlIT1ekAAAAJ" target="_blank">Google Scholar</a>.</li>
-    </ul>
-  </section>
-
-  <!-- Teaching -->
-  <section id="teaching" class="container">
-    <h2>Teaching & Mentoring</h2>
-    <ul>
-      <li>Lecturer, Evolution (Genomic Sciences, UACM).</li>
-      <li>Guest Lecturer, Bioinformatics (UACM), Molecular Biology (UAEM), Virology (IPN).</li>
-      <li>Supervisor of undergraduate, master’s, and PhD theses on bioinformatics and virology.</li>
+      <li><strong>Castelán-Sánchez, H. G.</strong>, et al. (2024). Diversity of maize root microbiomes. <em>Plants</em>.</li>
+      <li><strong>Castelán-Sánchez, H. G.</strong>, et al. (2023). Evolution of SARS-CoV-2 in Mexico. <em>Virus Evolution</em>.</li>
+      <li>Escalera-Zamudio, M., <strong>Castelán-Sánchez, H. G.</strong>, et al. (2023). Evolutionary trajectories in coronaviruses. <em>GBE</em>.</li>
+      <li>Full list on <a href="https://scholar.google.es/citations?user=HlIT1ekAAAAJ" target="_blank">Google Scholar</a>.</li>
     </ul>
   </section>
 
   <!-- Projects -->
   <section id="projects" class="container">
-    <h2>Funded Projects</h2>
+    <h2>Projects</h2>
     <ul>
       <li>2021–2023: Genomic surveillance of SARS-CoV-2, influenza and RSV in Mexico (Coordinator, CONAHCYT).</li>
-      <li>2020–2021: Genomic studies of SARS-CoV-2 for diagnostic development in Cusco, Peru (Co-PI).</li>
+      <li>2020–2021: Genomic studies of SARS-CoV-2 for diagnostics in Cusco, Peru (Co-PI).</li>
+    </ul>
+  </section>
+
+  <!-- Students -->
+  <section id="students" class="container">
+    <h2>Students & Mentoring</h2>
+    <p><strong>Undergraduate</strong></p>
+    <ul>
+      <li>Nestor Ivan Ortiz Rosas – Phage analysis (UNAM).</li>
+      <li>Raúl Cruz Marban – Viral proteins and plastic degradation (UAEM).</li>
+    </ul>
+    <p><strong>Master’s</strong></p>
+    <ul>
+      <li>Guadalupe Ayala Rodríguez – Viral adaptation in arid environments (UAEM).</li>
+      <li>Eduardo Ferreira Tijera – Transcriptomics of R. microplus (UAEM).</li>
+    </ul>
+    <p><strong>Doctoral</strong></p>
+    <ul>
+      <li>Carlos Corona Sánchez – Metal resistance in ESKAPE bacteria (IPN).</li>
+      <li>Laura Guerrero Martínez – Viromes of Aedes aegypti mosquitoes (UACM).</li>
+    </ul>
+  </section>
+
+  <!-- Teaching -->
+  <section id="teaching" class="container">
+    <h2>Teaching</h2>
+    <ul>
+      <li>Evolution (UACM, Genomic Sciences).</li>
+      <li>Guest Lecturer: Bioinformatics (UACM), Molecular Biology (UAEM), Virology (IPN).</li>
     </ul>
   </section>
 
@@ -109,7 +129,6 @@
   <section id="contact" class="container text-center">
     <h2>Contact</h2>
     <p>Email: <a href="mailto:hcastelans@gmail.com">hcastelans@gmail.com</a></p>
-    <p>Phone (MX): +52 5521896479 | Phone (CA): +1-226-977-5248</p>
   </section>
 
   <!-- Footer -->
